@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to XiaoHaoJie的博客之家
 
 You can use the [editor on GitHub](https://github.com/XiaoHaoJ/XiaoHaoJ.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
